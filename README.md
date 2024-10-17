@@ -15,4 +15,4 @@ Este projeto é uma **Lista de Tarefas** simples desenvolvida com **HTML**, **CS
 - **CSS3**: Estilização da página com um design limpo e moderno.
 - **JavaScript**: Lógica de interação, como adicionar, remover e marcar tarefas como concluídas.
 
-<img src="https://i.ibb.co/P1Ph24Y/image.png" alt="image" border="0"></a>
+<img src="https://i.ibb.co/LSZZRxY/image.png" alt="image" border="0"></a>
